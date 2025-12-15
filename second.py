@@ -1,0 +1,5 @@
+name = input("what is your name ")
+age = int(input("what is your age"))
+location = input("what is your location")
+years_of_exp=int(input("What is your years of experience"))
+print(name , age , location , years_of_exp)
